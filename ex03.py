@@ -1,4 +1,4 @@
-# Excercise
+# Exercise
 
 print("I will now count my chickens:")
 # * and / preceeds %, % preceeds + and -
